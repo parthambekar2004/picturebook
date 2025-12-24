@@ -4,10 +4,10 @@ PictureBook converts a PDF book into an interactive illustrated reader.
 
 ## Screenshots
 
-## Upload Page
+### Upload Page
 ![Upload Page](screenshots/upload.png)
 
-## Reader View
+### Reader View
 ![Reader View](screenshots/reader.png)
 
 ## Features

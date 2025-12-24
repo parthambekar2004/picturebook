@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.env
+*.pyc
+nltk_data/
+static/images/
